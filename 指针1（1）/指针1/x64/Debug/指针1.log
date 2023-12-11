@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\lenovo\source\repos\指针1\指针1\源.cpp(5,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  指针1.vcxproj -> C:\Users\lenovo\source\repos\指针1\x64\Debug\指针1.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\指针2（2）\指针2（2）\源.cpp(15,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\指针2（2）\指针2（2）\源.cpp(20,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\指针2（2）\指针2（2）\源.cpp(22,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  指针2（2）.vcxproj -> C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\指针2（2）\x64\Debug\指针2（2）.exe

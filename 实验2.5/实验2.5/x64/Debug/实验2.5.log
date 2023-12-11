@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\实验2.5\实验2.5\源.cpp(18,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\实验2.5\实验2.5\源.cpp(19,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\实验2.5\实验2.5\源.cpp(40): warning C4715: “indexOf”: 不是所有的控件路径都返回值
+  实验2.5.vcxproj -> C:\Users\lenovo\Desktop\耶\C++\第三四次实验，软工2303董浩禹\实验2.5\x64\Debug\实验2.5.exe
